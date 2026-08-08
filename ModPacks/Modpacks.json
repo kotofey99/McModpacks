@@ -1,11 +1,11 @@
 [
   {
-    "Name": "tlou сборка",
+    "Name": "tlou1.1",
     "GameVersion": "1.20.1",
     "Loader": "Forge",
     "LoaderVersion": "47.4.10",
-    "DownloadUrl": "https://drive.usercontent.google.com/download?id=1SeE-gwDfQKe47RKgz2E90I5OmM0-qCX4&export=download&authuser=0&confirm=t&uuid=486097ed-750c-4516-9f94-bff0ce3ef54d&at=AFYLz4OAN2b3BjCz6ep255OV5-50%3A1786114007584",
-    "PackVersion": "1.0"
+    "DownloadUrl": "https://drive.usercontent.google.com/download?id=1SeE-gwDfQKe47RKgz2E90I5OmM0-qCX4&export=download&authuser=0&confirm=t&uuid=b43d4928-e818-4e06-a227-0da641d003e9&at=AFYLz4PyPqCuGW7WXz-LmFBg9vTw%3A1786192171883",
+    "PackVersion": "1.1"
   },
   {
     "Name": "CreateAeronautics",
